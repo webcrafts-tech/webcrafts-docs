@@ -1,0 +1,26 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "WebCrafts Guides",
+  "description": "Guides for planning, costing, and launching a business website.",
+  "colors": {
+    "primary": "#0F766E",
+    "light": "#2DD4BF",
+    "dark": "#115E59"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "pages": [
+          "introduction"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "website": "https://webcraftstech.in"
+    }
+  }
+}
